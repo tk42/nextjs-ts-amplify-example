@@ -60,3 +60,6 @@ amplifytools.xcconfig
 
 
 .env
+
+next-ts-amplify-recoil-todolist/amplify/mock-data
+next-ts-amplify-recoil-todolist/amplify/mock-api-resources

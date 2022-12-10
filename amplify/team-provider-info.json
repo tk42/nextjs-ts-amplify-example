@@ -17,6 +17,9 @@
           "appId": "d3t0h06ezse1h9",
           "type": "cicd"
         }
+      },
+      "auth": {
+        "todolist67ee3ef5": {}
       }
     }
   }
